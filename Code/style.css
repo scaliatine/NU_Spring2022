@@ -1,0 +1,11 @@
+p {
+    font-size: 24px;
+    color: rgb(59, 182, 59);
+    font-family: 'Lato', Arial, Helvetica, sans-serif;
+    font-weight:400;
+  }
+  
+  figcaption {
+    background-color:#123456;
+    color: #ffffff;
+  }
